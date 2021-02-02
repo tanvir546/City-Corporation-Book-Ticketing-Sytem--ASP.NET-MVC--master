@@ -1,0 +1,38 @@
+﻿.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+
+input[type=text], input[type=password] {
+    
+    margin-left: 370px;
+}
+
+#field {
+    padding-left: 515px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#submitButton {
+    padding-left: 460px;
+}
+
+
+#border {
+    width: 400px;
+}
+#validation{
+    margin-left: 375px;
+}
+#EmailValidation
+{
+    padding-left: 388px;
+}
+#submitRegister
+{
+    padding-left: 630px;
+}

@@ -1,0 +1,392 @@
+﻿@{ 
+    Layout = null;
+    var CommentPerson = Request.Cookies["usId"].Value.ToString();
+}
+@model List<City_Corporate_Book.Models.ViewModel.PostCommentVModel>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/select2.min.js"></script>
+<script src="~/Scripts/select2.js"></script>
+<link href="~/Content/css/select2.css" rel="stylesheet" />
+<link href="~/Content/css/select2.min.css" rel="stylesheet" />
+<style>
+    body {
+        background-color: #E5E5E5;
+        font-family: 'Raleway', sans-serif;
+    }
+
+    .main-section {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .content {
+        padding: 20px;
+        background-color: #fff;
+    }
+
+    .user-img {
+        width: 10%;
+        float: left;
+        margin-right: 20px;
+    }
+
+        .user-img img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            margin-top: -10px;
+        }
+
+    .user-detail p {
+        font-size: 17px;
+        font-weight: 600;
+        letter-spacing: 1.5px;
+        margin: 15px 0px 10px 0px;
+    }
+
+    .user-detail span {
+        color: #a2a2a2;
+    }
+
+    .comment-content {
+        margin-top: 10px;
+    }
+
+    .comment-box {
+        margin-top: 30px;
+    }
+
+    .count-btn, .enter-btn {
+        float: left;
+    }
+
+    .btn {
+        border: none;
+        border: 1px solid #c2c2c2;
+        padding: 10px 12px;
+        border-radius: 3px;
+        margin-right: 10px;
+    }
+
+        .btn:hover {
+            border: 1px solid #000;
+        }
+
+    .comment-btn {
+        margin-top: 30px;
+    }
+
+        .comment-btn input {
+            width: 80%;
+            padding: 10px;
+        }
+
+    .add-comment {
+        padding: 20px;
+        background-color: #F5F5F5;
+        border-top: 1px solid #d2d2d2;
+        display: none;
+    }
+
+    .add-comment-img {
+        width: 10%;
+    }
+
+    .box .add-comment-img img {
+        margin-right: 10px;
+        width: 100%;
+        float: left;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .add-comment-text textarea {
+        width: 80%;
+        font-family: 'Barlow Condensed', sans-serif;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .post-comment-btn {
+        background-color: #5CB85C;
+        padding: 8px;
+        border: none;
+        color: #fff;
+        border-radius: 3px;
+        margin: 10px 5px 0px 75px;
+    }
+
+    .cancel-btn {
+        background-color: #fff;
+        padding: 8px;
+        border: none;
+        border: 1px solid #d2d2d2;
+        border-radius: 3px;
+    }
+
+        .cancel-btn:hover {
+            border: 1px solid #000;
+            cursor: pointer;
+        }
+
+    .example img {
+        border-radius: 50%;
+        margin-top: 20px;
+        width: 40px;
+    }
+
+    .comment-img img {
+        float: right;
+        margin-right: 20px;
+    }
+
+    .comment p {
+        margin-top: 30px;
+        display: inline-block;
+    }
+
+    .sub-comment .comment-img {
+        float: left;
+        width: 20%;
+    }
+
+    .sub-comment .comment {
+        float: left;
+        width: 80%;
+    }
+</style>
+<div class="main-section">
+    @foreach (var item in Model)
+    {
+        var text = "text"+item.PostId;
+        var addComment = "add-comment" + item.PostId;
+        var postcommentbtn = "post-comment-btn" + item.PostId;
+        var subcomment = "sub-comment" + item.PostId;
+        var cancelbtn = "cancel-btn" + item.PostId;
+        var exampletextarea = "example-textarea" + item.PostId;
+        var bttnAgreepress = "btnAgree" + item.PostId;
+        var bttnDisAgreepress = "btnDisAgree" + item.PostId;
+        var AgreeDisAgreeField = "agreeDisAgreeField" + item.PostId;
+        //var agree = "agree"+
+
+        <div class="content">
+            <div class="top-section">
+                <div class="user-img">
+                    <img src="http://nicesnippets.com/demo/man.png">
+                </div>
+                <div class="user-detail">
+                    <p>@item.Email</p>
+                    <span>Shared publicly - @item.Date</span>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="comment-content">
+                <span>
+                    @item.Post
+                </span>
+            </div>
+            <div class="sub-comment" id=@subcomment name=@item.PostId>
+                @foreach (var item1 in item.Comments)
+                {
+                    <div class="example">
+                        <div class="comment-img">
+                            <img src="http://nicesnippets.com/demo/man03.png" class="example">
+                            
+                        </div>
+                        
+                        <div class="comment">
+                            <p><b>@item1.Email</b><br /> @item1.Comment </p>
+                        </div>
+
+                        <div style="clear:both;"></div>
+
+                    </div>
+                }
+            </div>
+            <div>
+                <br />
+                <p id=@AgreeDisAgreeField name=@item.PostId><b>Agree: @item.Agree and DisAgree: @item.Disagree</b></p>
+            </div>
+
+            <div class="comment-box box">
+                <div class="count-btn">
+                    @if (item.Action == 1)
+                    {
+                        
+                        <button class="btn" id=@bttnAgreepress name=@item.PostId disabled>Agree</button>
+                        <button class="btn" id=@bttnDisAgreepress name=@item.PostId>Disagree</button>
+                        if (item.StatusPost == 0)
+                        {
+                            <button class="btn" disabled><b>On Going</b></button>
+                        }
+                        else if (item.StatusPost == 1)
+                        {
+                            <button class="btn" disabled><b>Reject</b></button>
+                        }
+                        else
+                        {
+                            <button class="btn" disabled><b>Approve</b></button>
+                        }
+                    }
+
+                    else if (item.Action == 2)
+                    {
+                        <button class="btn" id=@bttnAgreepress name=@item.PostId>Agree</button>
+                        <button class="btn" id=@bttnDisAgreepress name=@item.PostId disabled>Disagree</button>
+                        if (item.StatusPost == 0)
+                        {
+                            <button class="btn" disabled><b>On Going</b></button>
+                        }
+                        else if (item.StatusPost == 1)
+                        {
+                            <button class="btn" disabled><b>Reject</b></button>
+                        }
+                        else
+                        {
+                            <button class="btn" disabled><b>Approve</b></button>
+                        }
+                    }
+
+                    else
+                    {
+                        <button class="btn" id=@bttnAgreepress name=@item.PostId>Agree</button>
+                        <button class="btn" id=@bttnDisAgreepress name=@item.PostId>Disagree</button>
+                        if (item.StatusPost == 0)
+                        {
+                            <button class="btn" disabled><b>On Going</b></button>
+                        }
+                        else if (item.StatusPost == 1)
+                        {
+                            <button class="btn" disabled><b>Reject</b></button>
+                        }
+                        else
+                        {
+                            <button class="btn" disabled><b>Approve</b></button>
+                        }
+                    }
+
+                </div>
+                
+                <div style="clear:both;"></div>
+                <div class="comment-btn">
+                    <input type="textarea" class="text" id=@text name=@item.PostId rows="10" cols="30" placeholder="Add a comment...">
+                </div>
+            </div>
+        </div>
+        <div class="add-comment" id=@addComment name=@item.PostId>
+            <div class="box">
+                <div class="add-comment-img">
+                    <img src="http://nicesnippets.com/demo/man03.png">
+                </div>
+                <div class="add-comment-text">
+                    <textarea rows="5" class="example-textarea" name=@item.PostId id=@exampletextarea></textarea>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="add-comment-text-btn">
+                <button class="post-comment-btn" id=@postcommentbtn name=@item.PostId>Post Comment</button>
+                <button class="cancel-btn" id=@cancelbtn name=@item.PostId>Cancel</button>
+            </div>
+        </div>
+    }
+</div>
+
+<p id="cmmntPerson" hidden>@Request.Cookies["usId"].Value.ToString()</p>
+
+<script>
+    $(".text").click(function () {
+        //alert($(this).attr('name'));
+        var text = "#text";
+        text += $(this).attr('name');
+        $(text).hide();
+    });
+
+    $(".cancel-btn").click(function () {
+        var text = "#text";
+        text += $(this).attr('name');
+        $(text).show();
+    });
+
+    $('.text').click(function () {
+        //alert($(this).attr('name'));
+        $("#add-comment" + $(this).attr('name')).slideToggle();
+    });
+
+    $('.btn').click(function () {
+        //alert($(this).attr('name'));
+        //alert($("#cmmntPerson").text());
+        var Agree = 'btnAgree' + $(this).attr('name');
+        var Disagree = 'btnDisAgree' + $(this).attr('name');
+
+        if ($($(this).attr('id')).is(':disabled') == false)  {
+            if (Agree == $(this).attr('id')) {
+                $('#'+ $(this).attr('id')).prop("disabled", true);
+                $('#' + Disagree).prop("disabled", false);
+                var Id1 = $(this).attr('name');
+                var Email1 = $("#cmmntPerson").text();
+                var Action1 = 1;
+                $.ajax({
+                    url: '@Url.Action("AgreeDisagree", "Member")',
+                    contentType: "application/json;charset=utf-8",
+                    data: JSON.stringify({ PostId: Id1, Email: Email1, Action: 1}),/*JSON.stringify({ store: Store })*/
+                    type: 'POST',
+                    dataType: 'json',
+                    success: function (datas) {
+                        $("#agreeDisAgreeField" + Id1).text(datas.Messege);
+                    }
+                });
+            }
+            else {
+                $('#'+ $(this).attr('id')).prop("disabled", true);
+                $('#' + Agree).prop("disabled", false);
+                var Id1 = $(this).attr('name');
+                var Email1 = $("#cmmntPerson").text();
+                var Action1 = 2;
+                $.ajax({
+                    url: '@Url.Action("AgreeDisagree", "Member")',
+                    contentType: "application/json;charset=utf-8",
+                    data: JSON.stringify({ PostId: Id1, Email: Email1, Action: Action1}),/*JSON.stringify({ store: Store })*/
+                    type: 'POST',
+                    dataType: 'json',
+                    success: function (datas) {
+                        $("#agreeDisAgreeField" + Id1).text(datas.Messege);
+                    }
+                });
+            }
+        }
+    });
+    //alert($('#testButton').is(':disabled'));
+    $('.post-comment-btn').click(function () {
+        //alert($(this).attr('name'));
+        //alert("Hello World");
+        //alert($(".post-comment-btn").attr(this.name));
+        var id = $(this).attr('name');
+        var data = $("#example-textarea" + $(this).attr('name')).val();
+        if (!data) {
+            alert("Plese Enter value after click button post comment..");
+        } else {
+            $("#example-textarea" + $(this).attr('name')).val('');
+            $("#sub-comment" + $(this).attr('name')).append('<div class="example"><div class="comment-img"><img src="http://nicesnippets.com/demo/man03.png" class="example"></div><div class="comment"><p><b>@CommentPerson</b><br />' + data + '</p></div><div style="clear:both;"></div></div>');
+            $.ajax({
+                    url: '@Url.Action("SubmitMemberPostComment", "Member")',
+                    contentType: "application/json;charset=utf-8",
+                    data: JSON.stringify({ id: id, messege: data }),/*JSON.stringify({ store: Store })*/
+                    type: 'POST',
+                    dataType: 'json',
+                         success: function (datas) {
+                             //alert(datas.Messege);
+                    }
+                });
+        }
+    });
+
+    $(".cancel-btn").click(function () {
+        //alert(this.id);
+        $("#add-comment" + $(this).attr('name')).hide();
+    });
+
+
+
+</script>

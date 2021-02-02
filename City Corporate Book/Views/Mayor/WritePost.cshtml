@@ -1,0 +1,92 @@
+﻿@{
+    Layout = "~/Views/Shared/_MayorLayout.cshtml";
+}
+
+
+<meta name="viewport" content="width=device-width" />
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/select2.min.js"></script>
+<script src="~/Scripts/select2.js"></script>
+<link href="~/Content/css/select2.css" rel="stylesheet" />
+<link href="~/Content/css/select2.min.css" rel="stylesheet" />
+<title>ComplainPost</title>
+
+@using (Html.BeginForm("ComplainPost", "Member", FormMethod.Post))
+{
+
+    <div class="row">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4"><h1 class="text-lg-left">Complain</h1></div>
+        <div class="col-lg-4"></div>
+    </div>
+
+    <br />
+    <br />
+
+
+    <br />
+    <br />
+
+    <div class="row">
+        <div class="col-lg-4"><h3 class="text-lg-right">Comments: </h3></div>
+        <div class="col-lg-4"><textarea class="form-control" rows="5" id="comment"></textarea></div>
+        <div class="col-lg-4"></div>
+    </div>
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4"><center><input type="submit" value="POST" id="sub" /></center></div>
+        <div class="col-lg-4"></div>
+
+    </div>
+
+}
+
+
+<script>
+    $(".select2").select2();
+    $("#sub").click(function () {
+        event.preventDefault();
+        alert("Submiting");
+        var errorList = "";
+        var LocationValue = $("#Location").val();
+        if (LocationValue == "")
+        {
+            errorList += "Select Location Field\n";
+        }
+        var PostValue = $("#comment").val().trim();
+        if (PostValue.length < 10)
+        {
+            errorList += "Post Size Should be Greater Than 10";
+        }
+        if (errorList != "")
+        {
+            alert(errorList);
+        }
+        else
+        {
+                if (confirm("Do you want to Post?")) {
+                     $.ajax({
+                    url: '@Url.Action("SubmitMemberPost", "Member")',
+                    contentType: "application/json;charset=utf-8",
+                    data: JSON.stringify({ Location: LocationValue, Post: PostValue }),/*JSON.stringify({ store: Store })*/
+                    type: 'POST',
+                    dataType: 'json',
+                         success: function (datas) {
+                             if (datas.Message == 1) {
+                                 alert("Successfully Posted.");
+                                 location.reload();
+                        }
+                        else {
+                            alert("Save Failed. Check your Internet Connection.");
+                        }
+                    }
+                });
+                }
+            
+        }
+    });
+</script>

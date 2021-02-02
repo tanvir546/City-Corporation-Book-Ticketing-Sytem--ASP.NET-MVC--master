@@ -1,0 +1,26 @@
+﻿.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+#submitButton {
+    padding-left: 630px;
+}
+
+
+.container {
+    margin-top: 50px;
+    margin-left: 800px;
+}
+
+#EmailValidation {
+    padding-left: 20px;
+}
+
+#validateEmail {
+    padding-left: 180px;
+}
+
+#submitRegister {
+    padding-left: 290px;
+}

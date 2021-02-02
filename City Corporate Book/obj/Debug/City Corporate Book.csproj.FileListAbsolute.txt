@@ -1,0 +1,449 @@
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\ApplicationInsights.config
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\csc.exe
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\csc.exe.config
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\csc.rsp
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\csi.exe
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\csi.rsp
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\System.AppContext.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\vbc.exe
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\vbc.exe.config
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\vbc.rsp
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\City Corporate Book.dll.config
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\City Corporate Book.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Antlr3.Runtime.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\EntityFramework.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\EntityFramework.SqlServer.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.Web.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Newtonsoft.Json.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Helpers.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Mvc.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Optimization.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Razor.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.WebPages.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\WebGrease.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\EntityFramework.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\EntityFramework.SqlServer.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Helpers.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Mvc.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Optimization.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.Razor.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.WebPages.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Antlr3.Runtime.pdb
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Newtonsoft.Json.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\bin\Microsoft.AI.Web.xml
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\obj\Debug\City Corporate Book.dll
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\obj\Debug\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.promi.resources
+C:\Users\Tariqul\Desktop\Software Project 2\City Corporate Book\City Corporate Book\obj\Debug\City Corporate Book.csproj.GenerateResource.Cache
+E:\SP2\SP2\City Corporate Book\bin\ApplicationInsights.config
+E:\SP2\SP2\City Corporate Book\bin\roslyn\csc.exe
+E:\SP2\SP2\City Corporate Book\bin\roslyn\csc.exe.config
+E:\SP2\SP2\City Corporate Book\bin\roslyn\csc.rsp
+E:\SP2\SP2\City Corporate Book\bin\roslyn\csi.exe
+E:\SP2\SP2\City Corporate Book\bin\roslyn\csi.rsp
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SP2\SP2\City Corporate Book\bin\roslyn\System.AppContext.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\System.Collections.Immutable.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\System.Reflection.Metadata.dll
+E:\SP2\SP2\City Corporate Book\bin\roslyn\vbc.exe
+E:\SP2\SP2\City Corporate Book\bin\roslyn\vbc.exe.config
+E:\SP2\SP2\City Corporate Book\bin\roslyn\vbc.rsp
+E:\SP2\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe
+E:\SP2\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe.config
+E:\SP2\SP2\City Corporate Book\bin\City Corporate Book.dll.config
+E:\SP2\SP2\City Corporate Book\bin\City Corporate Book.dll
+E:\SP2\SP2\City Corporate Book\bin\City Corporate Book.pdb
+E:\SP2\SP2\City Corporate Book\bin\Antlr3.Runtime.dll
+E:\SP2\SP2\City Corporate Book\bin\EntityFramework.dll
+E:\SP2\SP2\City Corporate Book\bin\EntityFramework.SqlServer.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.Web.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.Web.Infrastructure.dll
+E:\SP2\SP2\City Corporate Book\bin\Newtonsoft.Json.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Helpers.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Mvc.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Optimization.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Razor.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.WebPages.dll
+E:\SP2\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.dll
+E:\SP2\SP2\City Corporate Book\bin\WebGrease.dll
+E:\SP2\SP2\City Corporate Book\bin\EntityFramework.xml
+E:\SP2\SP2\City Corporate Book\bin\EntityFramework.SqlServer.xml
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Helpers.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Mvc.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Optimization.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.Razor.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.WebPages.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.xml
+E:\SP2\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.xml
+E:\SP2\SP2\City Corporate Book\bin\Antlr3.Runtime.pdb
+E:\SP2\SP2\City Corporate Book\bin\Newtonsoft.Json.xml
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.xml
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.xml
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.xml
+E:\SP2\SP2\City Corporate Book\bin\Microsoft.AI.Web.xml
+E:\SP2\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.a.resources
+E:\SP2\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.GenerateResource.cache
+E:\SP2\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.CoreCompileInputs.cache
+E:\SP2\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.CopyComplete
+E:\SP2\SP2\City Corporate Book\obj\Debug\City Corporate Book.dll
+E:\SP2\SP2\City Corporate Book\obj\Debug\City Corporate Book.pdb
+E:\SP2\SP2\City Corporate Book\obj\Debug\City Corporate Book.csprojAssemblyReference.cache
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\obj\Debug\City Corporate Book.csprojResolveAssemblyReference.cache
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\ApplicationInsights.config
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\csc.exe
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\csc.exe.config
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\csc.rsp
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\csi.exe
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\csi.rsp
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\System.AppContext.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\vbc.exe
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\vbc.exe.config
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\vbc.rsp
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\City Corporate Book.dll.config
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\City Corporate Book.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Antlr3.Runtime.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\EntityFramework.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\EntityFramework.SqlServer.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.Web.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Newtonsoft.Json.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Helpers.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Mvc.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Optimization.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Razor.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.WebPages.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\WebGrease.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\EntityFramework.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\EntityFramework.SqlServer.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Helpers.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Mvc.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Optimization.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.Razor.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.WebPages.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Antlr3.Runtime.pdb
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Newtonsoft.Json.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\bin\Microsoft.AI.Web.xml
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\obj\Debug\City Corporate Book.dll
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\obj\Debug\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.a.resources
+C:\Users\Tariqul\Desktop\Software Project 2 Office\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.GenerateResource.Cache
+E:\SP2(BK2)\SP2\City Corporate Book\bin\ApplicationInsights.config
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\csc.exe
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\csc.exe.config
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\csc.rsp
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\csi.exe
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\csi.rsp
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\System.AppContext.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\System.Collections.Immutable.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\System.Reflection.Metadata.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\vbc.exe
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\vbc.exe.config
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\vbc.rsp
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe
+E:\SP2(BK2)\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe.config
+E:\SP2(BK2)\SP2\City Corporate Book\bin\City Corporate Book.dll.config
+E:\SP2(BK2)\SP2\City Corporate Book\bin\City Corporate Book.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\City Corporate Book.pdb
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Antlr3.Runtime.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\EntityFramework.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\EntityFramework.SqlServer.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.Web.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.Web.Infrastructure.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Newtonsoft.Json.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Helpers.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Mvc.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Optimization.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Razor.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.WebPages.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\WebGrease.dll
+E:\SP2(BK2)\SP2\City Corporate Book\bin\EntityFramework.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\EntityFramework.SqlServer.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Helpers.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Mvc.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Optimization.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.Razor.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.WebPages.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Antlr3.Runtime.pdb
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Newtonsoft.Json.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.xml
+E:\SP2(BK2)\SP2\City Corporate Book\bin\Microsoft.AI.Web.xml
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csprojAssemblyReference.cache
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.CoreCompileInputs.cache
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.CopyComplete
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City Corporate Book.dll
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City Corporate Book.pdb
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.a.resources
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.GenerateResource.cache
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.aa.resources
+E:\SP2(BK2)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.aaa.resources
+E:\SP2(BK3)\SP2\City Corporate Book\bin\ApplicationInsights.config
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csc.exe
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csc.exe.config
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csc.rsp
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csi.exe
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csi.rsp
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.AppContext.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.Collections.Immutable.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.Reflection.Metadata.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\vbc.exe
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\vbc.exe.config
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\vbc.rsp
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe
+E:\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe.config
+E:\SP2(BK3)\SP2\City Corporate Book\bin\City Corporate Book.dll.config
+E:\SP2(BK3)\SP2\City Corporate Book\bin\City Corporate Book.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\City Corporate Book.pdb
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Antlr3.Runtime.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.SqlServer.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.Web.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.Web.Infrastructure.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Newtonsoft.Json.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Helpers.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Mvc.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Optimization.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Razor.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\WebGrease.dll
+E:\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.SqlServer.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Helpers.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Mvc.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Optimization.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Razor.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Antlr3.Runtime.pdb
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Newtonsoft.Json.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.xml
+E:\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.Web.xml
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csprojAssemblyReference.cache
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.a.resources
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.aa.resources
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.aaa.resources
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.GenerateResource.cache
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.CoreCompileInputs.cache
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.CopyComplete
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.dll
+E:\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\ApplicationInsights.config
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csc.exe
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csc.exe.config
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csc.rsp
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csi.exe
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\csi.rsp
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.AppContext.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\vbc.exe
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\vbc.exe.config
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\vbc.rsp
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\City Corporate Book.dll.config
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\City Corporate Book.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Antlr3.Runtime.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.SqlServer.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.Web.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Newtonsoft.Json.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Helpers.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Mvc.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Optimization.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Razor.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\WebGrease.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\EntityFramework.SqlServer.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Helpers.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Mvc.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Optimization.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.Razor.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Antlr3.Runtime.pdb
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Newtonsoft.Json.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\bin\Microsoft.AI.Web.xml
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.a.resources
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.aa.resources
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City_Corporate_Book.Migrations.aaa.resources
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csproj.GenerateResource.Cache
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.dll
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.pdb
+C:\Users\Tariqul\Desktop\SP2(BK3)\SP2\City Corporate Book\obj\Debug\City Corporate Book.csprojResolveAssemblyReference.cache

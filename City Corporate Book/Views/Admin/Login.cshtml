@@ -1,0 +1,106 @@
+﻿@model City_Corporate_Book.Models.Login
+@{
+    Layout = null;
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/Login.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+@using (Html.BeginForm("Login", "Admin", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="imgcontainer">
+        <img src="~/Content/DSCC.PNG" width="300px" height="230px"/>
+    </div>
+
+
+    <div class="container">
+        <div class="form-group">
+            <label id="field">Email Address</label>
+            <div class="col-md-4">
+                @Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control" })
+            </div>
+        </div>
+        @Html.ValidationMessageFor(m => m.EmailAddress, "", new { @id = "EmailValidation", @class = "text-danger" })
+        <div class="form-group">
+            <label id="field">Password</label>
+            <div class="col-md-4">
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            </div>
+        </div>
+        @Html.ValidationMessageFor(m => m.Password, "", new { @id = "EmailValidation", @class = "text-danger" })
+        @Html.ValidationSummary(true, "", new { @id = "EmailValidation", @class = "text-danger" })
+
+        <div class="row" id="submitButton">
+            <div class="col-md-2">
+                <input type="submit" id="submit" value="Log in" class="btn btn-default" />
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-default" id="clear">Clear</button>
+            </div>
+        </div>
+
+    </div>
+
+}
+<script>
+    function IsEmail(email) {
+        var regex = /^([\w-\.]+)@@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        if (!regex.test(email)) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+    $("#submit").click(function () {
+        event.preventDefault();
+        var Email = $("#EmailAddress").val();
+        var Password = $("#Password").val();
+        if (IsEmail(Email) == true && Password != "") {
+            var Login = { EmailAddress: "", Password: "" };
+            Login.EmailAddress = Email;
+            Login.Password = Password;
+            $.ajax({
+                    url: '@Url.Action("LoginChecker", "Admin")',
+                    contentType: "application/json;charset=utf-8",
+                    data: JSON.stringify({ logins: Login }),
+                    type: 'POST',
+                    dataType: 'json',
+                    success: function (datas) {
+                        if (datas.Message == 0)
+                        {
+                            alert("Invalid Email Or Password");
+                        }
+                        else
+                        {
+                            alert("Welcome To City Corporation Book");
+                            if (datas.Role == 0)
+                            {
+                                window.location.href = "../Member/MemberPost";
+                            }
+                            else if (datas.Role == 1) {
+                                window.location.href = "../Councilor/LocationPost";
+                            }
+                            else if (datas.Role == 2) {
+                                window.location.href = "../Mayor/UserDetails";
+                            }
+                            else if (datas.Role == 3) {
+                                window.location.href = "../Admin/Search";
+                            }
+                        }
+                    }
+                });
+        }
+        else {
+            alert("Check Email Format and Password Field");
+        }
+    });
+    $("#submit").keydown(function (event) {
+        event.preventDefault();
+    });
+
+    $("#clear").click(function () {
+        event.preventDefault();
+        location.reload();
+    });
+
+</script>
